@@ -1,4 +1,6 @@
-export const skillsData = [
+export const skillsData1 = [
+  'HTML',
+  'CSS',
   'Javascript',
   'React',
   'Angular',
@@ -6,25 +8,31 @@ export const skillsData = [
   'ViteJS',
   'VuetifyJS',
   'Typescript',
+  'Bootstrap',
+  'PHP',
+  'MaterialUI',
+]
+
+export const skillsData2 = [
+  'C++',
   'C#',
   'Java',
   'Tailwind',
   'Django',
-  'Bootstrap',
   'Figma',
   'Git',
   'Nginx',
   'Ionic',
-  'PHP',
   'MySQL',
   'MongoDB',
   'PostgreSQL',
   'Firebase',
   'AWS',
   'Docker',
-  'MaterialUI',
   'Strapi'
-]
+];
+
+
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new

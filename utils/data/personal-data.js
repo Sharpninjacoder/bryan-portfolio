@@ -13,5 +13,5 @@ export const personalData = {
   twitter: 'https://twitter.com/zbrconstatin',
   leetcode: "https://leetcode.com/u/BrainArtfu/",
   devUsername: "Benjamin.Hernandez2645",
-  resume: "https://drive.google.com/file/d/1WKEBIECCZd6y3qXM8XvCjZ3LQ0D6G3PG/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1iP3rUapBo7zb-LVARblqdX3K9xfFfyEy/view?usp=sharing"
 }
