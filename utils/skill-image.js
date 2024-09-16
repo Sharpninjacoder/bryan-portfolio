@@ -72,20 +72,11 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
-import nestJs from './public/svg/skills/nestJs.svg';
-import nodeJs from './public/svg/skills/nodeJs.svg';
-import expressJs from './public/svg/skills/expressJs.svg';
 
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
-    case 'nestjs':
-      return nestJs;
-    case 'nodejs':
-      return nodeJs;
-    case 'expressjs':
-      return expressJs;
     case 'gcp':
       return gcp;
     case 'html':
