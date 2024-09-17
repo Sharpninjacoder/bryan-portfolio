@@ -5,12 +5,14 @@ export const skillsData1 = [
   'React',
   'Angular',
   'Vue',
+  'Azure',
   'ViteJS',
   'VuetifyJS',
   'Typescript',
   'Bootstrap',
   'PHP',
   'MaterialUI',
+  'Python'
 ]
 
 export const skillsData2 = [
