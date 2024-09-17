@@ -1,32 +1,26 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Backend Developer',
-    company: "PowerSlice Software Inc",
-    duration: "(Sep 2023 - Apr 2024)"
+    title: 'Senior Software Engineer',
+    company: "Blend",
+    duration: "(Feb 2021 - Aug 2024)"
   },
   {
     id: 2,
-    title: "Backend Developer",
-    company: "One Beyond",
-    duration: "(May 2021 - June 2023)"
+    title: "Senior Software Engineer",
+    company: "WillowTree",
+    duration: "(Mar 2018 - Feb 2021)"
   },
   {
     id: 3,
-    title: "Web Developer",
-    company: "IntelligentBe",
-    duration: "(Nov 2019 - Feb 2021)"
+    title: "Frontend Developer",
+    company: "Cognizant",
+    duration: "(Mar 2016 - Mar 2018)"
   },
   {
     id: 4,
-    title: "Frontend Developer",
-    company: "ACCESA IT GROUP",
-    duration: "(Aug 2015 - Mar 2019)"
-  },
-  {
-    id: 5,
-    title: "Frontend Developer",
-    company: "QUBIZ",
-    duration: "(Sep 2013 - Nov 2014)"
+    title: "React Developer",
+    company: "Auction.com",
+    duration: "(Sep 2014 - Mar 2016)"
   }
 ]

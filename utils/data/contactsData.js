@@ -1,6 +1,6 @@
 export const contactsData = {
     email: 'nicholaspaolo9@gmail.com',
-    phone: '+1 872 272 7217',
+    phone: '+1 602 399 7416 ',
     address: '1057 N Saguaro ST, Chandler, Arizona, United States',
     github: 'https://github.com/Nicholas-dev-ui',
     facebook: '',
