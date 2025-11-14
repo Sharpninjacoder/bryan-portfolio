@@ -6,7 +6,7 @@ export const personalData = {
   email: 'sharpninjacoder@gmail.com',
   phone: '+1 602 399 7416 ',
   address: '1057 N Saguaro ST, Chandler, Arizona, United States',
-  github: 'https://github.com/Nicholas-dev-ui',
+  github: 'https://github.com/Sharpninjacoder',
   linkedIn: 'https://www.linkedin.com/in/bryan-turner-700953325/',
   stackOverflow: '',
   facebook: '',
